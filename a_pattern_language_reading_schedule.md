@@ -2,7 +2,7 @@ Tentative schedule for what we'll read every couple weeks + when we'll meet to d
 
 # Section 1
 - ~~Meeting 1 (for 12/10/16) → Pattern 7 / pg. 40 [COMPLETE!]~~
-- Meeting 2 (for ~12/24/16) → Pattern 27 / pg. 148 (108 pages)
+- ~~Meeting 2 (for ~12/24/16) → Pattern 27 / pg. 148 (108 pages)~~
 - Meeting 3 (for ~1/7/17) → Pattern 48 / pg. 258 (110 pages)
 - Meeting 4 (for ~1/21/17) → Pattern 74 / pg. 374 (116 pages)
 - Meeting 5 (for ~2/4/17) → Pattern 94 / pg. 459 (85 pages) 
