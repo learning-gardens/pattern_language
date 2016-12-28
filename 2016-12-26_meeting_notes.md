@@ -64,3 +64,5 @@ The book might be too atomic for us to get a full image.
 Any connections between APL and Jane Jacobs ? 
 
 “Jacobs Spillover” — by going about your day in a mixed-use neighborhood, your interstitial time is spent face-to-face with neighbors and various things on-the-street that build a rich community. Isolated commutes can destroy this. 
+
+Is there a benefit to having commute time between work and life (opposite of software campuses)? Or is it problematic to have different areas of our life  (work and leisure, friends and other friends and family) be completely separate (ultimately, we live one life)?
