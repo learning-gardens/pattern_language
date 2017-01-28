@@ -42,7 +42,7 @@ Could we make town halls more accessible with digital versions of them? Using vo
 
 *`Necklace of Community Projects`* sounds great but how to build into existing neighborhoods? Publicly owned trucks with large platform for booths and copy machines, could circle the block slowly and allow people to hop on and off (could also work with zeppelins?). The Necklace also sounds like a publicly supported media outlet
 
-Thinking about new awareness post-election around how media companies are supported, and taking a more active subscriber role, acknowledging financially what media we value. Melanie mentioned Blundle(? can't find the link) allowing readers to pay journalists per article.
+Thinking about new awareness post-election around how media companies are supported, and taking a more active subscriber role, acknowledging financially what media we value. Melanie mentioned [Blendle](https://blendle.com/) allowing readers to pay journalists per article.
 
 we need more combination dance/medical clubs. `free physical with drink ticket`
 
